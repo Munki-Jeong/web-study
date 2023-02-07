@@ -1,0 +1,48 @@
+body{
+    background-color: hotpink;
+}
+
+#container{
+    width: 500px;
+    height: 300px;
+    margin-top: 200px;
+    text-align:center;      /* Title은 cont의 자식이므로 함께 정렬*/
+}
+
+#title{
+    color: #fff;
+}
+
+#sub_container{
+    width: 100%;        /*부모 cont와 같은 넓이 */
+    height: 300px;      
+    background-color: #fff;
+    border: 5px;
+    border-radius: 25px;
+}
+
+#list-group{
+    padding-top: 100px;
+}
+
+.list-group-item{
+    border: none !important;
+    border-bottom:
+}
+
+#input-group{
+    margin-top: 30px;
+
+}
+
+#input-area{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#button-area{
+    border: none;
+    
+
+
+}

@@ -1,0 +1,12 @@
+body{
+    background-color: cyan;
+}
+
+#container{
+    width: 300px;
+    height: 200px;
+    margin-block-start: auto;
+    background-color: blue;
+    text-align: center;
+}
+
