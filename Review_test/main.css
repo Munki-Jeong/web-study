@@ -2,11 +2,20 @@ body{
     background-color: cyan;
 }
 
+#main_title{
+    text-align: center;
+    margin-top: 300px;
+}
+
 #container{
     width: 300px;
     height: 200px;
-    margin-block-start: auto;
+    margin-top: 100px;
     background-color: blue;
     text-align: center;
 }
 
+
+#input-group{
+    margin-top: 50px;
+}
